@@ -1,0 +1,36 @@
+{
+	"name": "ui",
+	"version": "1.0.0",
+	"main": "./index.tsx",
+	"types": "./index.tsx",
+	"license": "MIT",
+	"scripts": {
+		"lint": "eslint \"**/*.ts*\"",
+		"test": "echo 'all packages-ui tests passed!'"
+	},
+	"devDependencies": {
+		"@types/node": "20.8.0",
+		"@types/react": "18.2.23",
+		"@types/react-dom": "18.2.8",
+		"autoprefixer": "10.4.16",
+		"eslint-config-custom": "*",
+		"next": "13.5.3",
+		"postcss": "8.4.31",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"sass": "1.68.0",
+		"tailwind-config": "*",
+		"tailwind-variants": "0.1.13",
+		"tailwindcss": "3.3.3",
+		"tsconfig": "*",
+		"typescript": "5.2.2",
+		"utils": "*"
+	},
+	"dependencies": {
+		"@nextui-org/react": "2.1.13",
+		"clsx": "2.0.0",
+		"framer-motion": "10.16.4",
+		"next-themes": "^0.2.1",
+		"tailwind-merge": "1.14.0"
+	}
+}
