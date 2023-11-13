@@ -102,3 +102,4 @@ Closes # (if applicable)
 Add any other context about the pull request here.
 ```
 
+Thank you for contributing to [turbo-nextui-starter](https://github.com/godkingjay/turbo-nextui-starter) dont forget to give us a :star: !

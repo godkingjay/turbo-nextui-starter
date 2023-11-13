@@ -87,6 +87,13 @@ Next, you can link your Turborepo to your Remote Cache by running the following 
 npx turbo link
 ```
 
+### Contributing
+
+We love your contributions and do our best to provide you with mentorship and support.
+
+Get more details in our [Contributing Guide](https://github.com/godkingjay/turbo-nextui-starter/blob/master/CONTRIBUTING.md).
+
+
 ## Useful Links
 
 Learn more about the power of Turborepo:
